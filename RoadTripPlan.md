@@ -4,11 +4,11 @@ Saturday, June 22
 Depart from **Cincinnati, OH** to **Peoria, IL**.
 - Drive time: 4h 45m.
 
-## 8pm
+## 7pm
 Stop for dinner.
 - Take a food exit at around this time.
 
-## 12am
+## 10pm
 Stop at [Travelodge][1] in **Peoria, IL**.
 - 101 E Ashland St, Morton, IL 61550
 [1]: http://www.travelodge.com/hotels/illinois/morton/travelodge-morton-il/hotel-overview
@@ -16,24 +16,24 @@ Stop at [Travelodge][1] in **Peoria, IL**.
 Sunday, June 23
 ===============
 
-## 9am
-Depart from **Peoria, IL** to **Emmetsburg, IA**.
+## 8am
+Depart from **Peoria, IL** to **Grotto of the Redemption**.
 -   Drive time: 6h.
 
 ## 12pm
 Stop for lunch.
 -   Take a food exit at around this time.
 
-## 5pm
-Visit the [Grotto of the Redemption][2].
+## 3pm
+Visit the [**Grotto of the Redemption**][2].
 - 300 N Broadway Ave, West Bend, IA 50597
 [2]: http://www.westbendgrotto.com
 
-## 6pm
-Continue to **Emmetsburgh, IA**.
+## 5pm
+Depart from **Grotto of the Redemption** to **Emmetsburgh, IA**.
 -   Drive time: 30m.
 
-## 7pm
+## 6pm
 Stop at [Super 8][3] in **Emmetsburg, IA**.
 - 3501 Main Street, Emmetsburg, IA 50536 US 
 - *There is an A&W restaurant in this town.*
@@ -48,7 +48,7 @@ Depart from **Emmetsburg, IA** to **Sioux Falls, SD**.
 -   Drive time: 2h 30m.
 
 ## 12pm
-Spend the rest of the day in **Sioux Falls, SD**.
+Arrive, spend the rest of the day in **Sioux Falls, SD**.
 
 Things to do in Sioux Falls:
 
