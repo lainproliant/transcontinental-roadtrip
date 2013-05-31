@@ -85,9 +85,9 @@ Depart from **Badlands National Park** to **Rapid City, SD**.
 - Drive time: 1h.
 
 ## 9pm
-Stop at [Super 8][7] in **Rapid City, SD**.
+Stop at [Super 8][8] in **Rapid City, SD**.
 - 2124 Lacrosse St, I-90 Exit 59, Rapid City, SD 57701-7859 US
-[7]: http://www.super8.com/hotels/south-dakota/rapid-city/super-8-rapid-city-lacrosse-st/hotel-overview
+[8]: http://www.super8.com/hotels/south-dakota/rapid-city/super-8-rapid-city-lacrosse-st/hotel-overview
 
 Wednesday, June 26
 ==================
